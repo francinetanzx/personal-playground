@@ -1,2 +1,2 @@
-# swe
-Repository for all things SWE-related
+# Personal Playground
+Repository to commit personal swe learnings! 
